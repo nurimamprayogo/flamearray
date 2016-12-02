@@ -1,0 +1,18 @@
+###########################################
+# Syntax Coloring Map For flameArray
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+flameArray	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+flameReset	KEYWORD2
+flameStart	KEYWORD2
+flameRead	KEYWORD2
+flameReadBit	KEYWORD2
